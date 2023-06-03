@@ -1,5 +1,8 @@
 ##Time to 50% germination
 
+
+#the data can be downloaded from osf: https://osf.io/nu7mv/
+
 #here we use the dataset created in CreateT50.R and 
 #merging it with the germination dataset
 

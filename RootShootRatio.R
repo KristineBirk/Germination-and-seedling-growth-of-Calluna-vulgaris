@@ -1,5 +1,7 @@
 ##Root:shoot
 
+#See SRL.R for the download
+#the data can be downloaded from osf: https://osf.io/nu7mv/
 
 #Remove NAs for root:shoot
 

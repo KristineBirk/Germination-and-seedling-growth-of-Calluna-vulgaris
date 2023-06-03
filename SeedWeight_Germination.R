@@ -1,5 +1,6 @@
 #Effect of seed mass on germinaion percentage
 
+#the data can be downloaded from osf: https://osf.io/nu7mv/
 
 #merging the datasets for the germination percentage and the seed weight
 SeedGerm <- merge(Seed.df, GermPercentage1, by=c("ID","Plot"))

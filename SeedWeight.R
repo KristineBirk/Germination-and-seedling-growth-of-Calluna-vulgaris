@@ -1,5 +1,7 @@
 #Downloading the data 
 
+#the data can be downloaded from osf: https://osf.io/nu7mv/
+
 CalGermSeed1 <- excel_sheets(
   "~/Master/Dataset/CallunaGermination.xlsx") %>% 
   purrr::map_df(~ read_excel("~/Master/Dataset/CallunaGermination.xlsx", 

@@ -1,6 +1,8 @@
 ##Time to maximum germination (Tmax)
 
 
+#the data can be downloaded from osf: https://osf.io/nu7mv/
+
 #Re-naming the dataset
 
 Tmax <- T50.data

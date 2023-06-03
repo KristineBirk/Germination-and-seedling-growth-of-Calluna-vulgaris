@@ -1,6 +1,7 @@
 ##Time to 50% germination.
 
 #Download the file
+#the data can be downloaded from osf: https://osf.io/nu7mv/
 
 T50.df <- read.csv("~/Master/Dataset/Tfemtidata.csv", header = TRUE, sep = ";")
 

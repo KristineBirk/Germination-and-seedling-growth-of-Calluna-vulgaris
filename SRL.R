@@ -1,4 +1,5 @@
 #Import dataset
+#the data can be downloaded from osf: https://osf.io/nu7mv/
 
 CallunaGermination <- read_excel(
   "~/Master/Dataset/CallunaGermination.xlsx")

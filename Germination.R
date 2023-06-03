@@ -1,4 +1,5 @@
 #Accessing the data
+#the data can be downloaded from osf: https://osf.io/nu7mv/
 
 germ <- read.csv("~/Master/Dataset/CallunaGerminationTrue.csv", 
                  header = TRUE, sep = ";", 
